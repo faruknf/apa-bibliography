@@ -1,0 +1,1 @@
+APA style refers to the citation and formatting guidelines developed by the American Psychological Association. It is commonly used in social science fields such as psychology, sociology, and education, as well as in business and nursing.

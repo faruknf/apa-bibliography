@@ -90,3 +90,4 @@ console.log(
     "doi:10.3390/brainsci8110201"
   )
 );
+// Kulac, F., & Kose, S., (2018). Borderline personality disorder (BPD): In the midst of vulnerability, chaos, and awe. Brain sciences, 8(11), 201. doi:10.3390/brainsci8110201
